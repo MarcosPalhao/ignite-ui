@@ -28,8 +28,8 @@
     },
     "dependencies": {
         "@ignite-ui/eslint-config": "*",
-        "@ignite-ui/react": "*",
-        "@ignite-ui/tokens": "*",
+        "@marcos-ignite-ui/react": "*",
+        "@marcos-ignite-ui/tokens": "*",
         "@ignite-ui/ts-config": "*",
         "phosphor-react": "^1.4.1",
         "polished": "^4.2.2",
